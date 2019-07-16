@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 ---
 # 12-740 Data Acquisition

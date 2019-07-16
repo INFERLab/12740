@@ -8,7 +8,7 @@ title: Logistics
 | **Date**      | **Topic**     | **References**|
 | ------------- |:----------------:| ---------------------|
 | 2019/09/01    | Introduction to Data Acuqisition |       |
-|               |               | [Getting Started with RPi](/get-started.html)   |
+|               | Demo: Setting up Raspberry PI | [Getting Started with RPi](/12740/get-started.html)   |
 
 
 ***

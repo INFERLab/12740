@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 description: Fall 2019
 ---

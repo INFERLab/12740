@@ -3,18 +3,24 @@ layout: page
 title: Logistics
 ---
 
-# Schedule
+## Schedule
+
+| Date          | Topic         | References  |
+| ------------- |:-------------:| -----:|
+| 2019/09/01    | Introduction  |       |
+|               |               |       |
+
 
 ***
 
-# Grading 
+## Grading 
 
 ***
 
-# Assignments
+## Assignments
 
 ***
 
-# Project 
+## Project 
 
 ***

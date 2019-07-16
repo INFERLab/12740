@@ -1,6 +1,13 @@
 ---
 layout: page
-title: Home
+title: 12-740 Data Acquisition
+description: Fall 2019
 ---
 
-This is the Home Page.
+- **Time:** Monday/Wednesday 12:00-1:20 pm
+- **Location:** [Porter Hall 152]
+- **Instructor:** Mario Berges
+- **Teaching Assistant:** Bingqing Chen
+
+***
+

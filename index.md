@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-description: Fall 2019
 ---
 # 12-740 Data Acquisition
 ## Fall 2019

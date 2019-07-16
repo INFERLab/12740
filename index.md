@@ -5,7 +5,7 @@ description: Fall 2019
 ---
 
 - **Time:** Monday/Wednesday 12:00-1:20 pm
-- **Location:** [Porter Hall 152]
+- **Location:** Porter Hall 152
 - **Instructor:** Mario Berges
 - **Teaching Assistant:** Bingqing Chen
 

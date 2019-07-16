@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 description: Fall 2019
 ---
@@ -10,6 +10,8 @@ description: Fall 2019
 - **Location:** Porter Hall 152
 - **Instructor:** Mario Berges
 - **Teaching Assistant:** Bingqing Chen
+- **Graders:** 
+- **Office Hours:** 
 
 ***
 

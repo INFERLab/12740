@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Raspberry Pi
+title: Tutorial 1: Getting Started with Raspberry Pi
 date: 2019-07-15
 permalink: /tutorials/get-started.html
 ---
@@ -12,7 +12,6 @@ Each project team will get the following items.
 
 Accessories:
 - DisplayPort to HDMI Adaptor
-
 
 ## Step 0: Open your Raspberry Pi (RPi) 4 Kit
 For this tutorial, you will only need the RPi kit and the DisplayPort to HDMI Adaptor. In additional to that, you will need a monitor, a keyboard, and a mouse, which are available in our computer lab. 

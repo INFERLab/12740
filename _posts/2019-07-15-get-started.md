@@ -58,7 +58,9 @@ Accessories:
 - Insert the SD card directly into the RPi. The SD card that comes with the kit is already pre-loaded with a New Out of Box Software (NOOBS), which is an operating system (OS) installation manager for RPi's. So, there is no need for you to do anything with the SD card.
 
 ## Step 3: Connect your RPi 
-- Connect a monitor to the RPi. Use the micro HDMI cable that comes with the kit to connect the monitor to Port HDMI 0 on the RPi. The monitors in the computer lab use DisplayPort interface, so we additionally provide you with a DisplayPort to HDMI adaptor. - Connect a mouse and a keyboard to the RPi.
+- Connect a monitor to the RPi. Use the micro HDMI cable that comes with the kit to connect the monitor to Port HDMI 0 on the RPi. The monitors in the computer lab use DisplayPort interface, so we additionally provide you with a DisplayPort to HDMI adaptor.
+
+- Connect a mouse and a keyboard to the RPi.
 - Finally, connect the power adaptor that comes with the kit. 
 
 
@@ -71,6 +73,7 @@ Accessories:
 
 
 ### **Congratulations! You have successfully set up your RPi.** 
+---
 
 ## *(Optional)* Step 5: Set Up Remote Access to RPi
 After you finish with Step 1-4, your desk probably looks like this: 

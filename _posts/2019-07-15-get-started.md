@@ -14,12 +14,13 @@ Accessories:
 - DisplayPort to HDMI Adaptor
 
 
-## Step 0: Open your Raspberry Pi (RPI) 4 Kit
+## Step 0: Open your Raspberry Pi (RPi) 4 Kit
 For this tutorial, you will only need the RPi kit and the DisplayPort to HDMI Adaptor. In additional to that, you will need a monitor, a keyboard, and a mouse, which are available in our computer lab. 
 
-![RPi 4 Ultimate Kit from CanaKit](/12740/assets/canakit.jpg)
 
 **Since the kits will be used by future students, please make sure to keep your kit in good condition**.  
+
+![RPi 4 Ultimate Kit from CanaKit](/12740/assets/canakit.jpg)
  
 The RPi kit includes the following items. In particular, the kit comes with a **Quick-Start Guide**. Read pp. 2-4 of the **Quick-Start Guide**, which supplements this tutorial.
 
@@ -71,7 +72,8 @@ Accessories:
 
 
 
-### **Congratulations! You have successfully set up your RPi.** 
+## **Congratulations! You have successfully set up your RPi.** 
+
 ---
 
 ## *(Optional)* Step 5: Set Up Remote Access to RPi

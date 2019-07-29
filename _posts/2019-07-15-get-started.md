@@ -59,7 +59,6 @@ Accessories:
 
 ## Step 3: Connect your RPi 
 - Connect a monitor to the RPi. Use the micro HDMI cable that comes with the kit to connect the monitor to Port HDMI 0 on the RPi. The monitors in the computer lab use DisplayPort interface, so we additionally provide you with a DisplayPort to HDMI adaptor.
-
 - Connect a mouse and a keyboard to the RPi.
 - Finally, connect the power adaptor that comes with the kit. 
 

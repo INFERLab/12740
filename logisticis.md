@@ -13,14 +13,19 @@ title: Logistics
 
 ***
 
+
 ## Grading 
 
+
 ***
+
 
 ## Assignments
 
 ***
 
+
 ## Project 
+
 
 ***

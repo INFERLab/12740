@@ -20,7 +20,7 @@ For this tutorial, you will only need the RPi kit and the DisplayPort to HDMI Ad
 
 ![RPi 4 Ultimate Kit from CanaKit](/12740/assets/canakit.jpg)
  
-The RPi kit includes the following items. In particular, the kit comes with a **Quick-Start Guide**. Read pp. 2-4 of the **Quick-Start Guide**, which supplements this tutorial.
+The RPi kit includes the following items. In particular, the kit comes with a **Quick-Start Guide**. Read **pp. 2-4 of the Quick-Start Guide**, which supplements this tutorial.
 
 - Raspberry Pi 4 (4 GB RAM)
 - CanaKit USB-C Power Supply
@@ -71,14 +71,13 @@ Accessories:
 
 ## Step 5: Install Useful Packages
 - Open the terminal.
-- Type the following lines into the terminal. *Do not type the "$" sign, which denotes that you're typing something in the command line.*
+- Type the following lines into the terminal. *Do not type the "$" sign, which just denotes that you're typing something in the command line.*
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install python-rpi.gpio
 ```
-- Install other packages with `$ sudo apt-get install package_name`. For example, to install my favorite text editor, type:
-
+- Install other packages with `$ sudo apt-get install package_name`. For example, to install my favorite text editor, use:
 ```
 $ sudo apt-get install vim
 ```

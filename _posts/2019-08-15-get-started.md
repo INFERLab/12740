@@ -4,7 +4,6 @@ title: 1. Getting Started with Raspberry Pi
 permalink: /tutorials/get-started.html
 author: Bingqing Chen
 ---
-
 Each project team will get the following items.
 
 - Raspberry Pi 4 Ultimate Kit from CanaKit
@@ -46,7 +45,7 @@ Accessories:
 - 10 x 220 Ohm Resistors
 - 5 x 10K Ohm Resistors
 
-## Step 1: Install Heat Sinks and Fit the RPi in the Case
+## Step 1: Stick on Heat Sinks and Encase the RPi
 
 - Firstly, stick the heat sinks onto the RPi following the instructions on p. 3 of the **Quick-Start Guide**.
 - Fit the RPi in the case that comes with the kit.
@@ -66,8 +65,23 @@ Accessories:
 ## Step 4: Install OS for your RPi
 - The RPi should power up automatically, after you connect the RPi to the power adaptor.
 - Install Raspbian OS and configure your RPi following the on-screen instructions. 
-- For WiFi connection, use "CMU-DEVICE". You need to open the web browser to register the RPi using your CMU credential. 
+- For WiFi connection, use **CMU-DEVICE**. You need to open the web browser to register the RPi using your CMU credential. 
 - Finally, restart the RPi following the on-screen instruction. 
+
+
+## Step 5: Install Useful Packages
+- Open the terminal.
+- Type the following lines into the terminal. *Do not type the "$" sign, which denotes that you're typing something in the command line.*
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install python-rpi.gpio
+```
+- Install other packages with `$ sudo apt-get install package_name`. For example, to install my favorite text editor, type:
+
+```
+$ sudo apt-get install vim
+```
 
 
 
@@ -75,13 +89,10 @@ Accessories:
 
 ---
 
-## *(Optional)* Step 5: Set Up Remote Access to RPi
-After you finish with Step 1-4, your desk probably looks like this: 
+## *(Optional)* Step 6: Set Up Remote Access to RPi
+After you finish with Step 1-4, your desk would probably looks like this: 
 
 ![Finished!](/12740/assets/connection.jpg)
 
-If you do not want the clutter and you are comfort with command line tools, you should [set up remote access to your RPi](https://www.raspberrypi.org/magpi/ssh-remote-control-raspberry-pi/). Having set up the remote access, you can do without the monitor, keyboard and mouse, and work on the RPi directly from your laptop. 
-
-
-
+If you do not want the clutter and you are comfort with command line tools, you should set up remote access to your RPi following the instructions [here](https://www.raspberrypi.org/magpi/ssh-remote-control-raspberry-pi/). Having set up the remote access, you can do without the monitor, keyboard and mouse, and work on the RPi directly from your laptop. 
 

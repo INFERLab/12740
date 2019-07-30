@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 1. Getting Started with Raspberry Pi
-date: 2019-07-15
 permalink: /tutorials/get-started.html
+author: Bingqing Chen
 ---
 
 Each project team will get the following items.

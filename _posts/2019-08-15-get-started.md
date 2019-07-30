@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial 1-Getting Started with Raspberry Pi
+title: 1. Getting Started with Raspberry Pi
 date: 2019-07-15
 permalink: /tutorials/get-started.html
 ---

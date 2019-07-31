@@ -75,9 +75,12 @@ Accessories:
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
+```
+- Install necessary packages with `$ sudo apt-get install package_name`. 
+```
 $ sudo apt-get install python-rpi.gpio
 ```
-- Install other packages with `$ sudo apt-get install package_name`. For example, to install my favorite text editor, use:
+- Install other packages, e.g. my favorite text editor:
 ```
 $ sudo apt-get install vim
 ```

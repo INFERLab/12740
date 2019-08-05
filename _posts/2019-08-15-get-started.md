@@ -86,7 +86,6 @@ $ sudo apt-get install vim
 ```
 
 
-
 ### **Congratulations! You have successfully set up your RPi.** 
 
 ---
@@ -96,5 +95,5 @@ After you finish with Step 1-4, your desk would probably looks like this:
 
 ![Finished!](/12740/assets/connection.jpg)
 
-If you do not want the clutter and you are comfort with command line tools, you should set up remote access to your RPi following the instructions [here](https://www.raspberrypi.org/magpi/ssh-remote-control-raspberry-pi/). Having set up the remote access, you can do without the monitor, keyboard and mouse, and work on the RPi directly from your laptop. 
+If you do not want the clutter and you are comfort with command line tools, you should set up remote access to your RPi following the instructions [here](https://www.raspberrypi.org/documentation/remote-access/ssh/). Having set up the remote access, you can do without the monitor, keyboard and mouse, and work on the RPi directly from your laptop. 
 

@@ -72,13 +72,15 @@ class Device(mqtt.Client):
             print("Connection Successful")
         else:
             print("Connection Unsucessful, rc code = {}".format(rc))
-        # Subscribing in on_connect() means that if we lose the connection and reconnect then subscriptions will be renewed.
-        self.subscribe("openchirp/device/"+self.username+"/#") # Subscribe to all tranducers
+        # Subscribing in on_connect() means that if we lose the connection and reconnect, the subscriptions will be renewed.
+	# Subscribe to all transducers
+        self.subscribe("openchirp/device/"+self.username+"/#") 
 
     # The callback for when a PUBLISH message is received from the server.
     def on_message(self, client, userdata, msg):
         print(msg.topic+" "+str(msg.payload.decode()))
-        # Commands Issued from OpenChirp
+        
+	# Change Actuator State based on Commands Issued from OpenChirp
         transducer = msg.topic.split("/")[-1]
         self.device_state[transducer] = msg.payload.decode()
 

@@ -9,15 +9,19 @@ In this tutorial, we will show you how to set up your own IoT device. To achieve
 - Publish/subscribe data using MQTT protocol
 
 ### Create a Device on OpenChirp
-We will use the LED controlled by ambient lighting from the previous tutorial as example. - You should create a device following this [tutorial](https://github.com/OpenChirp/docs/wiki/simple-device-tutorial), except for setting up **Transducers** and **Commands** specific to the example, as below:  
+We will use the LED controlled by ambient lighting from the previous tutorial as example.
+
+- You should create a device following this [tutorial](https://github.com/OpenChirp/docs/wiki/simple-device-tutorial), except for setting up **Transducers** and **Commands** specific to the example, as below:  
 
 #### Transducers
+
 |**Name**|**Unit**      |**Actuable**|
 | ------------- | ---------------------|---------|
 | light-dependent_resistor  | Voltage|     false|  
 |   light | Binary     | true|
 
 #### Commands
+
 |**Command**|**Value**      |**Transducer**|
 | ------------- | ----|--------|
 | Light On| 1| light|       
@@ -25,13 +29,13 @@ We will use the LED controlled by ambient lighting from the previous tutorial as
 
 - You can see value changes of the transducers in the **Visualization** tab. *(Issue commands to change the actuator state. You will learn how to modify the sensor readings in the next section.)*
 
-![visualization](/12740/assets/Openchirp.jpg)
+![visualization](/12740/assets/Openchirp.png)
 
-- For more information on OpenChirp, refer to [this paper](/12740/assets/Openchirp.pdf)
+- For more information on OpenChirp, refer to [this paper](/12740/assets/OpenChirp.pdf)
 
 
 ### Publish/Subscribe Data using MQTT Protocol
-Read [here](https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/) for a simple introduction what is MQTT communication protocol. 
+Read [here](https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/) for a simple introduction on what is MQTT communication protocol. 
 
 - Install **paho-mqtt** library
 ```
@@ -42,6 +46,7 @@ $ pip3 install paho-mqtt
 ```python
 import paho.mqtt.client as mqtt
 
+# MQTT client
 class Device(mqtt.Client):
     def __init__(self, username, password):
         super(Device, self).__init__()
@@ -58,7 +63,7 @@ class Device(mqtt.Client):
         # Create a dictionary to save all transducer states
         self.device_state = dict()
         
-        # Connect to the Broker, i.e. the OpenChirp server
+        # Connect to the Broker, i.e. OpenChirp
         self.connect(self.host, self.port, self.keepalive)
         self.loop_start()
     
@@ -73,7 +78,7 @@ class Device(mqtt.Client):
     # The callback for when a PUBLISH message is received from the server.
     def on_message(self, client, userdata, msg):
         print(msg.topic+" "+str(msg.payload.decode()))
-        # Save device state
+        # Commands Issued from OpenChirp
         transducer = msg.topic.split("/")[-1]
         self.device_state[transducer] = msg.payload.decode()
 

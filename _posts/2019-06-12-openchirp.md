@@ -115,11 +115,14 @@ def main():
         
 	# Update device state
         smart_light.device_state[sensor] = sensor_reading
-        if smart_light.device_state[sensor] > threshold:
-            smart_light.device_state[actuator] = 1
+
+	# Actuate the light based on the command
+        if smart_light.device_state[actuator]:
+            GPIO.output(red_led, GPIO.HIGH)
         else:
-            smart_light.device_state[actuator] = 0
-        time.sleep(1)
+            GPIO.output(red_led, GPIO.LOW)  
+      
+	time.sleep(1)
 ```
 ### **Good job! You have successfully set up your own IoT device.** 
 

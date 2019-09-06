@@ -12,8 +12,7 @@ The syllabus for the course is available in PDF here: [Syllabus.pdf](/12740/asse
 | 2019/08/27    | Theory: Introduction|       
 | 2019/08/29    | Practice: [Setting up your Environment](/12740/tutorials/get-started.html)   |
 | 2019/09/03    | Theory: Principles of Sensors, Electric Circuits|       
-| 2019/09/05    | Practice: [Acquiring Digital Signals](/12740/tutorials/first-sensor.html
-)   |
+| 2019/09/05    | Practice: [Acquiring Digital Signals](/12740/tutorials/first-sensor.html)|
 | 2019/09/10    | Theory: Fundamentals of Data Acquisition|       
 | 2019/09/12    | Practice: [Analog Signals](/12740/tutorials/adc.html)   |
 | 2019/09/17    | Theory: Signal Conditioning|       
@@ -27,9 +26,7 @@ The syllabus for the course is available in PDF here: [Syllabus.pdf](/12740/asse
 | 2019/10/15    | Project Demos|       
 | 2019/10/17    | Project Reports Due |
 
-
 ***
 
-## Project
 
-***
+

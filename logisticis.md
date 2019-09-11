@@ -30,10 +30,10 @@ The syllabus for the course is available in PDF here: [Syllabus.pdf](/12740/asse
 
 ## Grading 
 
-**Class Participation**: 5\%
-**Project**: 45\%
-**Assignments**: 40\%
-**Mini-quizzes: ** 10\%
+**Class Participation**: 5%
+**Project**: 45%
+**Assignments**: 40%
+**Mini-quizzes: ** 10%
 
 ***
 ## Project 
@@ -41,10 +41,10 @@ A large portion of the grades for the course will be based on a group project, w
 
 | **Date**      | **Milestone**     | Grading|
 | ------------- |----------------------------|:------------:| 
-|   2019/09/19| Project Proposal Presentation| 10\%       |
-|    2019/09/30| Progress Report    |  5\% (Binary) |
-| 2019/10/03    | Short Project Progress Presentation|5\%|
-|2019/10/17|Final Report and Video Presentation | 25\%|
+|   2019/09/19| Project Proposal Presentation| 10%       |
+|    2019/09/30| Progress Report    |  5% (Binary) |
+| 2019/10/03    | Short Project Progress Presentation|5%|
+|2019/10/17|Final Report and Video Presentation | 25%|
 
 #### Project Report
 For project report, you will create a Github webpage following the template [here](/12740/tutorials/template.html). You should also refer to [past projects](http://wiki.marioberges.com/courses/12-740/index.php?title=Main_Page). The template only serves as a guideline on the content to include in your report. You are free to take artistic license in designing your project webpage.

@@ -107,6 +107,7 @@ def main():
     smart_light.device_state[actuator] = 0
     
     while True:
+	# Actuate the light based on the command
         GPIO.output(red_led, int(smart_light.device_state[actuator]))
         
         # Read from sensor and Publish onto OpenChirp
@@ -115,11 +116,8 @@ def main():
         
 	# Update device state
         smart_light.device_state[sensor] = sensor_reading
-        if smart_light.device_state[sensor] > threshold:
-            smart_light.device_state[actuator] = 1
-        else:
-            smart_light.device_state[actuator] = 0
-        time.sleep(1)
+
+	time.sleep(1)
 ```
 ### **Good job! You have successfully set up your own IoT device.** 
 

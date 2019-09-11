@@ -1,1 +1,1 @@
-This is a course website under development.
+This is the course website for **12-740 Data Acquisition**.

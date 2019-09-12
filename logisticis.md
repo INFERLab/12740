@@ -30,10 +30,13 @@ The syllabus for the course is available in PDF here: [Syllabus.pdf](/12740/asse
 
 ## Grading 
 
-**Class Participation**: 5%
-**Project**: 45%
-**Assignments**: 40%
-**Mini-quizzes: ** 10%
+**Class Participation:** 5%
+
+**Project:** 45%
+
+**Assignments:** 40%
+
+**Mini-quizzes:** 10%
 
 ***
 ## Project 

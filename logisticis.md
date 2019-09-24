@@ -53,7 +53,7 @@ For project report, you will create a Github webpage following the template [her
 
 Refer to the documentation [here](https://pages.github.com) on how to create your own Github webpage. You will create the project webpage with your own Github repository. 
 
-To encourage working on your project early, we will check your progress before TA assistance sessions. Each group should send a link of their project webpage to the TA by September 30. We acknowledge that it is work-in-progress. But, the progress report should include motivation of the problem, some preliminary works, and problems encountered. The progress report will be graded on a binary basis, that is you will get full credits as long as you demonstrate	that you have been working on the project and document it properly.  
+To encourage working on your project early, we will check your progress before TA assistance sessions. Each group should send a link of their project webpage to the TA by September 29. We acknowledge that it is work-in-progress. But, the progress report should include motivation of the problem, some preliminary works, and problems encountered. The progress report will be graded on a binary basis, that is you will get full credits as long as you demonstrate	that you have been working on the project and document it properly.  
 
 #### Project Video
 The final video submission should be uploaded [here](https://vimeo.com/groups/609557).  

@@ -9,7 +9,7 @@ title: Final Project
 
 | **Group ID**      | **Link**     |
 | ----------------------------- |:----------------------------:|
-|AA|[Indoor Air Quality Monitoring and Regulation System]()|
+|AA|[Indoor Air Quality Monitoring and Regulation System](https://linlyu97.github.io/12-740/)|
 |AB|[Smart Glass](https://12740teamab.github.io/Smart-Glass/)|
 |AD|[Hand-based Control](https://yujuem.github.io/12740project.github.io/?fbclid=IwAR3yYZxkjfgjnYWLurMiKdn0kXDFDNq67xauL4Zo3junFrEIXO97dzPOfXo)|
 |AE|[Home Security Project](https://12740ae.github.io/12740_AE_F19-Project/)|

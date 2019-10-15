@@ -20,7 +20,7 @@ title: Final Project
 |AJ|[Seats Available, Come Study Here!](https://lijingtu.github.io/12740_AJ/)|
 |AK|[Waking-up System for Rear Window Defogger](https://github.com/chengzh2/AKGroup-Progress-Report/blob/master/README.md)|
 |AL|[Smart Bathroom](https://github.com/yuanpenc/-12740teamAL-Smart-Bathroom/wiki)|
-|AM|[Intelligent Parking System](https://zhaochengd.github.io/Course_12740/)|
+|AM|[Intelligent Parking System](https://zhaochengd.github.io/Course_Data_Acquisition/)|
 
 
 

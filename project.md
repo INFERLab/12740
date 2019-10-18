@@ -16,7 +16,7 @@ title: Final Project
 |AF| [Assistive Sensor-Based Pedestrian Signal](https://radish96.github.io/12740teamAF/)|        
 |AG| [BathPi](https://hahahoho1997.github.io/BathPi/)|       
 |AH|[Smart Greenhouse Environment Control System](https://jiadongsong31.github.io/project_12740/)|
-|AI|[Smart Aquarium](assets/Team_AI.pdf)|
+|AI|[Smart Aquarium](https://dylan-wyl10.github.io/12740-AI-Group/index)|
 |AJ|[Seats Available, Come Study Here!](https://lijingtu.github.io/12740_AJ/)|
 |AK|[Waking-up System for Rear Window Defogger](https://github.com/chengzh2/AKGroup-Progress-Report/blob/master/README.md)|
 |AL|[Smart Bathroom](https://github.com/yuanpenc/-12740teamAL-Smart-Bathroom/wiki)|

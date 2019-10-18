@@ -11,8 +11,8 @@ title: Final Project
 | ----------------------------- |:----------------------------:|
 |AA|[Indoor Air Quality Monitoring and Regulation System](https://linlyu97.github.io/12-740/)|
 |AB|[Smart Glass](https://12740teamab.github.io/Smart-Glass/)|
-|AD|[Hand-based Control](https://yujuem.github.io/12740project.github.io/?fbclid=IwAR3yYZxkjfgjnYWLurMiKdn0kXDFDNq67xauL4Zo3junFrEIXO97dzPOfXo)|
-|AE|[Home Security Project](https://12740ae.github.io/12740_AE_F19-Project/)|
+|AD|[Hand-based Control](https://yujuem.github.io/12740project.github.io/)|
+|AE|[Home Security Project](https://12740ae.github.io/AE_website/)|
 |AF| [Assistive Sensor-Based Pedestrian Signal](https://radish96.github.io/12740teamAF/)|        
 |AG| [BathPi](https://hahahoho1997.github.io/BathPi/)|       
 |AH|[Smart Greenhouse Environment Control System](https://jiadongsong31.github.io/project_12740/)|

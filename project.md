@@ -19,7 +19,7 @@ title: Final Project
 |AI|[Smart Aquarium](https://dylan-wyl10.github.io/12740-AI-Group/index)|
 |AJ|[Seats Available, Come Study Here!](https://lijingtu.github.io/12740_AJ/)|
 |AK|[Waking-up System for Rear Window Defogger](https://github.com/chengzh2/AKGroup-Progress-Report/blob/master/README.md)|
-|AL|[Smart Bathroom](https://github.com/yuanpenc/-12740teamAL-Smart-Bathroom/wiki)|
+|AL|[Smart Bathroom](https://yuanpenc.github.io/AL-term-project.github.io/)|
 |AM|[Intelligent Parking System](https://zhaochengd.github.io/Course_Data_Acquisition/)|
 
 

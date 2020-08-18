@@ -3,15 +3,15 @@ layout: home
 title: Home
 ---
 # 12-740 Data Acquisition
-## Fall 2019
+## Fall 2020
 
-- **Time:** Monday/Wednesday 3:00-4:20 pm
-- **Location:** Posner Hall (POS) 153  
+- **Time:** Tuesday/Thursday 11:40 am-1:00 pm
+- **Location:** TBD  
 - **Instructor:** Mario Bergés
-- **Office Hours:** Tuesdays at 11am, Porter Hall 118L 
+- **Office Hours:** TBD 
 - **Teaching Assistant:** Bingqing Chen
-- **Office Hours:** Wednesdays at 10am, Porter Hall A15
-- **Graders:** Jingsi Chen, Yuanyuan Ji
+- **Office Hours:** TBD
+- **Graders:** TBD
 
 In recent times, there has been a considerable increase in the number of sensors and actuators being embedded in the environment, electronic devices, and throughout all the infrastructure that supports modern human life. All this instrumentation allows today's practitioners to push the boundaries of traditional design, operation and management in a variety of ways, including faster and more precise measurement and control. For civil engineering, for example, these technologies provide incredible opportunities to increase the precision and/or automate existing measurement processes (e.g., laser scanning technologies vs. theodolites), as well as to measure phenomena that were previously very difficult or impossible to measure (e.g., real-time measurements of strains in structural elements). In particular, they open up new territories in the space of solutions for combatting climate change and social/economic inequality, as well as for improving urban sustainability. 
 

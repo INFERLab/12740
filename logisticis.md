@@ -5,26 +5,26 @@ title: Course Logistics
 
 The syllabus for the course is available in PDF here: [Syllabus.pdf](/12740/assets/syllabus.pdf)
 
-## Schedule
+## Schedule (Tentative)
 
 | **Date**      | **Topic**     |
 | ------------- |:----------------------------:| 
-| 2019/08/27    | Theory: Introduction|       
-| 2019/08/29    | Practice: [Setting up your Environment](/12740/tutorials/get-started.html)   |
-| 2019/09/03    | Theory: Principles of Sensors, Electric Circuits|       
-| 2019/09/05    | Practice: [Acquiring Digital Signals](/12740/tutorials/first-sensor.html)|
-| 2019/09/10    | Theory: Fundamentals of Data Acquisition|       
-| 2019/09/12    | Practice: [Analog Signals](/12740/tutorials/adc.html)   |
-| 2019/09/17    | Theory: Signal Conditioning|       
-| 2019/09/19    | Project Proposal Presentations  |
-| 2019/09/24    | Theory: Measurement Errors and Uncertainty|       
-| 2019/09/26    | Practice: [The Internet of Things](/12740/tutorials/openchirp.html)   |
-| 2019/10/01    | Theory: Signal Processing: Fourier Analysis|       
-| 2019/10/03    | Practice: Putting it All Together |
-| 2019/10/08    | No Class: TA Assistance for Project|       
-| 2019/10/10    | No Class: TA Assistance for Project |
-| 2019/10/15    | Project Demos|       
-| 2019/10/17    | Project Reports Due |
+| 2020/09/01    | Theory: Introduction|       
+| 2020/09/03    | Practice: [Setting up your Environment](/12740/tutorials/get-started.html)   |
+| 2020/09/08    | Theory: Principles of Sensors, Electric Circuits|       
+| 2020/09/10    | Practice: [Acquiring Digital Signals](/12740/tutorials/first-sensor.html)|
+| 2020/09/15    | Theory: Fundamentals of Data Acquisition|       
+| 2020/09/17    | Practice: [Analog Signals](/12740/tutorials/adc.html)   |
+| 2020/09/22    | Theory: Signal Conditioning|       
+| 2020/09/24    | Project Proposal Presentations  |
+| 2020/09/29    | Theory: Measurement Errors and Uncertainty|       
+| 2020/10/01    | Practice: [The Internet of Things](/12740/tutorials/openchirp.html)   |
+| 2020/10/06    | Theory: Signal Processing: Fourier Analysis|       
+| 2020/10/08    | Practice: Putting it All Together |
+| 2020/10/13    | No Class: TA Assistance for Project|       
+| 2020/10/15    | No Class: TA Assistance for Project |
+| 2020/10/20    | Project Demos|       
+| 2020/10/22    | Project Reports Due |
 
 ***
 
@@ -39,14 +39,15 @@ The syllabus for the course is available in PDF here: [Syllabus.pdf](/12740/asse
 **Mini-quizzes:** 10%
 
 ***
-## Project 
+## Project (Tentative)
+
 A large portion of the grades for the course will be based on a group project, which consists of a written report, a presentation, and a final video presentation.
 
 | **Date**      | **Milestone**     | Grading|
 | ------------- |----------------------------|:------------:| 
-|   2019/09/19| Project Proposal Presentation| 10%       |
-|    2019/09/30| Progress Report    |  5% (Binary) |
-|2019/10/17|Final Report and Video Presentation | 30%|
+|   2020/09/24| Project Proposal Presentation|        |
+|    TBD| Progress Report    |  5% (Binary) |
+|TBD|Final Report and Video Presentation | 40%|
 
 #### Project Report
 For project report, you will create a Github webpage following the template [here](/12740/tutorials/template.html). You should also refer to [past projects](http://wiki.marioberges.com/courses/12-740/index.php?title=Main_Page). The template only serves as a guideline on the content to include in your report. You are free to take artistic license in designing your project webpage.

@@ -6,9 +6,7 @@ title: Final Project
 
 ## Student Projects
 ### Fall 2020
-| **Group ID**      | **Link**     |
-| ----------------------------- |:----------------------------:|
-| | |
+
 
 
 ### Fall 2019

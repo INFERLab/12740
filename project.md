@@ -2,12 +2,8 @@
 layout: page
 title: Final Project
 ---
-
-
 ## Student Projects
 ### Fall 2020
-
-
 
 ### Fall 2019
 | **Group ID**      | **Link**     |
@@ -24,7 +20,6 @@ title: Final Project
 |AK|[Waking-up System for Rear Window Defogger](https://chengzh2.github.io/12740-project-group-AK/)|
 |AL|[Smart Bathroom](https://yuanpenc.github.io/AL-term-project.github.io/)|
 |AM|[Intelligent Parking System](https://zhaochengd.github.io/Course_Data_Acquisition/)|
-
 
 
 

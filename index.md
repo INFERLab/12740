@@ -5,7 +5,7 @@ title: Home
 # 12-740 Data Acquisition
 ## Fall 2020
 
-- **Time:** Tuesday/Thursday 11:40 am-1:00 pm
+- **Time:** Tuesday/Thursday 11:40 am - 1:00 pm
 - **Location:** Virtual
 - **Instructor:** Mario Bergés
 - **Office Hours:** Wednesdays 1:00 PM - 2:00 PM

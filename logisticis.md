@@ -48,3 +48,20 @@ For project report, you will create a Github webpage following the template [her
 Refer to the documentation [here](https://pages.github.com) on how to create your own Github webpage. You will create the project webpage with your own Github repository. 
 
 To encourage working on your project early, we will check your progress before TA assistance sessions. Each group should send a link of their project webpage to the TA by September 29. We acknowledge that it is work-in-progress. But, the progress report should include motivation of the problem, some preliminary works, and problems encountered. The progress report will be graded on a binary basis, that is you will get full credits as long as you demonstrate	that you have been working on the project and document it properly.  
+
+#### Project Ideas
+Feel free to define your project scope. The project ideas here are for reference only. 
+
+**Smart Light:#** Expand on [Tutorial 3](/12740/tutorials/adc.html) to develop a smart light that is controlled by both occupancy and ambient light intensity
+
+ - Use a relay to actuate a light bulb instead of an LED; 
+ - Include a passive infrared (PIR) sensor to detect occupancy;
+ - Demonstrate it works well at your apartment; 
+ 
+**Indoor Air Quality (IAQ) Monitoring:** Given you collected temperature and humidity measurements in **Homework 2**, develop a indoor environment monitoring system by collecting additional modality(ies) on IAQ
+
+- Research on what IAQ measurements are important for occupants' health and comfort; 
+- Research on what sensor(s) one may use to acquire these measurements; 
+- Measure your apartment for an extended period of time; What do you observe?
+
+

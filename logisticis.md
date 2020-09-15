@@ -52,16 +52,15 @@ To encourage working on your project early, we will check your progress before T
 #### Project Ideas
 Feel free to define your project scope. The project ideas here are for reference only. 
 
-**Smart Light:#** Expand on [Tutorial 3](/12740/tutorials/adc.html) to develop a smart light that is controlled by both occupancy and ambient light intensity
-
+**Smart Light:** Expand on [Tutorial 3](/12740/tutorials/adc.html) to develop a smart light that is controlled by both occupancy and ambient light intensity
  - Use a relay to actuate a light bulb instead of an LED; 
  - Include a passive infrared (PIR) sensor to detect occupancy;
  - Demonstrate it works well at your apartment; 
  
 **Indoor Air Quality (IAQ) Monitoring:** Given you collected temperature and humidity measurements in **Homework 2**, develop a indoor environment monitoring system by collecting additional modality(ies) on IAQ
 
-- Research on what IAQ measurements are important for occupants' health and comfort; 
-- Research on what sensor(s) one may use to acquire these measurements; 
+- What IAQ measurements are important for occupants' health and comfort? 
+- Research on what sensor(s) one may use to acquire some of these measurements; 
 - Measure your apartment for an extended period of time; What do you observe?
 
 

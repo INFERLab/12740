@@ -40,14 +40,14 @@ The syllabus for the course is available in PDF here: [Syllabus.pdf](/12740/asse
 
 
 ***
-## Project (Tentative)
+## Project
 
 #### Project Report
 For project report, you will create a Github webpage following the template [here](/12740/tutorials/template.html). You should also refer to [past projects](http://wiki.marioberges.com/courses/12-740/index.php?title=Main_Page). The template only serves as a guideline on the content to include in your report. You are free to take artistic license in designing your project webpage.
 
 Refer to the documentation [here](https://pages.github.com) on how to create your own Github webpage. You will create the project webpage with your own Github repository. 
 
-To encourage working on your project early, we will check your progress before TA assistance sessions. Each group should send a link of their project webpage to the TA by September 29. We acknowledge that it is work-in-progress. But, the progress report should include motivation of the problem, some preliminary works, and problems encountered. The progress report will be graded on a binary basis, that is you will get full credits as long as you demonstrate	that you have been working on the project and document it properly.  
+To encourage working on your project early, we will check your progress before TA assistance sessions. Each group should send a link of their project webpage to the TA by Oct 5. We acknowledge that it is work-in-progress. But, the progress report should include motivation of the problem, some preliminary works, and problems encountered. The progress report will be graded on a binary basis, that is you will get full credits as long as you demonstrate that you have been working on the project and document it properly.  
 
 #### Project Ideas
 Feel free to define your project scope. The project ideas here are for reference only. 

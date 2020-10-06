@@ -10,7 +10,7 @@ title: Final Project
 |A|[Automatic indoor light adjustment](https://yesandy.github.io/12740-group-project/)|
 |B|[IoT based Bridge Health Monitoring and Evaluating System](https://xiongrxchn.github.io/IntelBri.github.io/)|
 |C|[Hi-Tech Basil](https://lgraff.github.io/lgraff-12704_Final_Project/)|
-|D||
+|D|[Distributed Water-level Measurement System](https://masciolistephen.github.io/10-740/)|
 |E|[COVID - Maximum Occupancy Tracking](https://github.com/SadhanaSai/12740-COVIDOccupancy/blob/main/README.md)|        
 
 

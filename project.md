@@ -3,6 +3,17 @@ layout: page
 title: Final Project
 ---
 ## Student Projects
+### Fall 2020
+
+| **Group ID**      | **Link**     |
+| ----------------------------- |:----------------------------:|
+|A|[Automatic indoor light adjustment](https://yesandy.github.io/12740-group-project/)|
+|B|[IoT based Bridge Health Monitoring and Evaluating System](https://xiongrxchn.github.io/IntelBri.github.io/)|
+|C|[Hi-Tech Basil](https://lgraff.github.io/lgraff-12704_Final_Project/)|
+|D||
+|E|[COVID - Maximum Occupancy Tracking](https://github.com/SadhanaSai/12740-COVIDOccupancy/blob/main/README.md)|        
+
+
 ### Fall 2019
 
 | **Group ID**      | **Link**     |
